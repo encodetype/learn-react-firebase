@@ -1,0 +1,4 @@
+{
+	"present": ["env","react"],
+	"plugins": ["styled-components"]
+}
